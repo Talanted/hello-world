@@ -1,2 +1,3 @@
 # hello-world
-Hello world
+Hello World
+My name is Alan
